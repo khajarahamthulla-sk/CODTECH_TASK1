@@ -1,4 +1,4 @@
-![logo](https://github.com/khajarahamthulla-sk/CODTECH_TASK1/blob/main/Github%20B.G%20Banner.png)
+![logo]()
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khajarahamthulla-sk&label=Profile%20views&color=0e75b6&style=flat" alt="khajarahamthulla-sk" /> </p>
